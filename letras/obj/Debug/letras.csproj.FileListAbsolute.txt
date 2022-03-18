@@ -1,0 +1,11 @@
+C:\Users\ra2157081\source\repos\letras\letras\bin\Debug\letras.exe.config
+C:\Users\ra2157081\source\repos\letras\letras\bin\Debug\letras.exe
+C:\Users\ra2157081\source\repos\letras\letras\bin\Debug\letras.pdb
+C:\Users\ra2157081\source\repos\letras\letras\obj\Debug\letras.csproj.AssemblyReference.cache
+C:\Users\ra2157081\source\repos\letras\letras\obj\Debug\letras.csproj.SuggestedBindingRedirects.cache
+C:\Users\ra2157081\source\repos\letras\letras\obj\Debug\letras.Form1.resources
+C:\Users\ra2157081\source\repos\letras\letras\obj\Debug\letras.Properties.Resources.resources
+C:\Users\ra2157081\source\repos\letras\letras\obj\Debug\letras.csproj.GenerateResource.cache
+C:\Users\ra2157081\source\repos\letras\letras\obj\Debug\letras.csproj.CoreCompileInputs.cache
+C:\Users\ra2157081\source\repos\letras\letras\obj\Debug\letras.exe
+C:\Users\ra2157081\source\repos\letras\letras\obj\Debug\letras.pdb
